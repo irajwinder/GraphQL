@@ -18,8 +18,8 @@ query GetAllCountries {
 
 ## Dependencies
 
-- [Apollo](https://www.apollographql.com/): A GraphQL client for Swift.
-- [CountryAPI]: A generated Swift package based on the GraphQL schema for the countries API.
+- [Apollo](https://www.apollographql.com/docs/ios): A GraphQL client for Swift.
+- CountryAPI: A generated Swift package based on the GraphQL schema for the countries API.
 
 ## How to Use
 
