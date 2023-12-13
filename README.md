@@ -1,6 +1,6 @@
 # GraphQL
 
-This project utilizes the [countries.trevorblades.com](https://countries.trevorblades.com/) GraphQL API to retrieve detailed information about countries, including country codes, names, emojis, and more. The project is built using Swift and SwiftUI, making use of the Apollo GraphQL client.
+This project utilizes the [Trevorblades](https://countries.trevorblades.com/) GraphQL API to retrieve detailed information about countries, including country codes, names, emojis, and more. The project is built using Swift and SwiftUI, making use of the Apollo GraphQL client.
 
 ## How to Run
 
